@@ -7,7 +7,7 @@
 
 PetalBot is a responsive web application designed to assist users in managing their plants more effectively using smart tools, intuitive interfaces, and an AI-based assistant. Developed as a diploma project by students at the Faculty of Electrical Engineering and Computer Science (FERI), University of Maribor.
 
-![PetalBot Screenshot](https://your-image-url-here.com/petalbot-screenshot.png)
+![SplashImage]([https://your-image-url-here.com/petalbot-screenshot.png](https://images.pexels.com/photos/1208377/pexels-photo-1208377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2))
 
 ## Table of Contents
 - [Introduction](#introduction)
