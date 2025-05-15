@@ -62,8 +62,5 @@ PetalBot is built as a full-stack client-side application integrated with Fireba
 Clone the repo and start the dev server:
 
 ```bash
-git clone https://github.com/your-org/petalbot.git
-cd petalbot
-npm install
-npm run dev
+placeholder
 ```
